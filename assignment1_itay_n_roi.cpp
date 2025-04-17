@@ -1,13 +1,3 @@
-/*
- * Assignment 1
- * 
- * Authors:
- * Itay Andre Aknin
- * Roi Israel Forer
- * 
- * 4/2/2024
- * 
- */
 
 #include <iostream>
 #include <cstdlib> // For rand() and srand()
